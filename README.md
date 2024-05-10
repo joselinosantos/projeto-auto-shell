@@ -35,7 +35,7 @@ Crie um script shell que faça o seguinte passo a passo de forma rigorosa:
 19 Executar a aplicação criada com: python app.py
 20 Executar a url com o curl e verificar se a resposta é válida.
 ```
-**O resultado do código foi surpreendente, mas não perfeito. Então fiz alguns poucos ajustes e o resultado está no arquivo criar_app_completa.sh**
+**O resultado do código foi surpreendente, mas não perfeito. Então fiz alguns poucos ajustes e o resultado está no arquivo criar_app_completa.sh**<br>
 É incrível o poder que essas ferramentas colocaram em nossas mãos. Vamos usar com responsabilidade e aumentar a produtividade!
 
 ### Passo a passo para executar:
